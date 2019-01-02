@@ -1,4 +1,4 @@
-owner=514041065041297421
+owner=349906494822547471
 prefix= 5
 game= Type 5 help
 stayinchannel=true
