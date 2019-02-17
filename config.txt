@@ -1,6 +1,6 @@
 owner=349906494822547471
-prefix= 5
-game= Type 5 help
+prefix= Bl
+game= Type Bl help
 stayinchannel=true
 songinstatus=true 
 token=NTI3ODQ3NzMyMzUwNjgxMDg4.DwZsOg.F4Je_TziTw2mHYcN76WMPdYY8L4
